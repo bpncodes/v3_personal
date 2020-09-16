@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-A simple clone of google keep app built with gatsby and firebase. Built while experimenting MUI with gatsby and firebase.
+A simple clone of google keep app built with Gatsby and Firebase. Built while experimenting MUI with Gatsby and Firebase.

@@ -12,4 +12,4 @@ tech:
 showInProjects: true
 ---
 
-A Chat application built with the latest Mobile SDK by google. Used Firebase to store the messages.
+A Chat application built with the latest Mobile SDK by Google. Used Firebase to store the messages.

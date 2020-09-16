@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-A simple mobile application built with flutter and dart.
+A simple mobile application built with Flutter and Dart.

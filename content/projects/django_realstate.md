@@ -13,4 +13,4 @@ tech:
 showInProjects: true
 ---
 
-A fully functional realstate web application built with bootstrap, django and postgresql. Has all the functionality of a modern webapplication. Manage realtors, realstate and staff.
+A fully functional realstate web application built with Bootstrap, Django and Postgresql. Has all the functionality of a modern webapplication. Manage realtors, realstate and staff.

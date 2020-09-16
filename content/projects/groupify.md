@@ -10,4 +10,4 @@ tech:
 showInProjects: true
 ---
 
-A chat application built with flutter and firebase. Supports realtime chat.
+A chat application built with Flutter and Firebase. Supports realtime chat.

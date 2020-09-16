@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-A simple mobile application built with flutter that allows employers to view and hire candidates.
+A simple mobile application built with Flutter that allows employers to view and hire candidates.
